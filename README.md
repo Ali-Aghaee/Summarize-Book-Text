@@ -18,5 +18,5 @@ I tackled noisy data by cleaning and structuring the text, replacing control cha
 2. NLP for Text Summarization:
 I created a summarization model that condenses the key ideas from large bodies of text. This significantly reduces the size while keeping the essence intact. 
 
-3.Text-to-Image Generation:
+3. Text-to-Image Generation:
 To push the boundaries of this project, I took the summaries and generated visual representations using a text-to-image model. Combining NLP with Computer Vision was a fun challenge, and the results were fascinating—each book now has an accompanying image to represent its content visually.
